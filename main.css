@@ -1,0 +1,14 @@
+body, html {
+	font-family: Impact, sans-serif;
+	color: darkslateblue;
+	text-align: center;
+}
+div.content {
+	width: 100%;
+	max-width: 588px;
+	margin: auto;
+	margin-top: 3%;
+}
+p.link {
+	font-weight: bold;
+}
